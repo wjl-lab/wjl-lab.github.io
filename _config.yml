@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: LoneStar
+description: 个人主页
+logo: left
+show_downloads: false
