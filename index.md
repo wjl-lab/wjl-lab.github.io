@@ -1,10 +1,20 @@
 ## 欢迎来到我的个人主页
 
-<h3>bilibili： </h3>
+<h1>个人博客</h1>
+
+<a href="https://blog.wangjialei.xyz"><img src="./favicon.png" style="zoom:15%;"/></a>
+
+<hr>
+
+
+<h3>bilibili</h3>
 
 <a href="https://space.bilibili.com/433694656"><img src="./bilibili-line.png" style="zoom:15%;"/></a>
 
-<h3>知乎：</h3> 
+<hr>
+
+
+<h3>知乎</h3> 
 
 <a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu-line.png" style="zoom:15%;"/></a>
 
