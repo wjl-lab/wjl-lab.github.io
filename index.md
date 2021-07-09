@@ -1,6 +1,10 @@
 ## 欢迎来到我的个人主页
 
-bilibili： <a href="https://space.bilibili.com/433694656"><img src="./bilibili-line.png" style="zoom:15%;"/></a>
+<h3>bilibili： </h3>
 
-知乎： <a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu-line.png" style="zoom:15%;"/></a>
+<a href="https://space.bilibili.com/433694656"><img src="./bilibili-line.png" style="zoom:15%;"/></a>
+
+<h3>知乎：</h3> 
+
+<a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu-line.png" style="zoom:15%;"/></a>
 
