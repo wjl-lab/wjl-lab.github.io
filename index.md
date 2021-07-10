@@ -10,28 +10,28 @@
   
 <table style="font-size:25px;" cellspacing="10">  
   <tr>
-    <td>
+    <td style="padding:15px;">
       <img src="./gtihub.ico" style="zoom:100%;"/>
     </td>
-    <td>
+    <td style="padding:15px;">
       <a href="https://github.com/wjl-lab">github</a>
     </td>
   </tr>
   
   <tr>
-    <td>
+    <td style="padding:15px;">
       <img src="./bilibili.ico" style="zoom:100%;"/>
     </td>
-    <td>
+    <td style="padding:15px;">
       <a href="https://space.bilibili.com/433694656">bilibilib</a> 
     </td>
   </tr>
   
   <tr>
-    <td>
+    <td style="padding:15px;">
       <img src="./zhihu.ico" style="zoom:100%;"/>
     </td>
-    <td>
+    <td style="padding:15px;">
       <a href="https://www.zhihu.com/people/zao-zao-zao-63-70">zhihu</a>   
     </td>
   </tr>
