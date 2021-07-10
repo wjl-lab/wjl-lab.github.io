@@ -8,7 +8,7 @@
  
 <p>
   
-<table style="font-size:25px;" cellspacing="10">  
+<table style="font-size:25px; width:100%;" cellspacing="10">  
   <tr>
     <td style="padding:15px;">
       <img src="./gtihub.ico" style="zoom:100%;"/>
