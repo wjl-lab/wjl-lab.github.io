@@ -1,18 +1,35 @@
 # 欢迎来到我的个人主页
 
-<div style="font-size:20px;">
- 
+
+ <div style="font-size:20px;">
 - 半个技术宅，喜欢尝试新事物，想法很多
+</div>
 
+<p>
+
+<div style="font-size:20px;">
 - 计算机专业在读，目前对后端开发感兴趣
+</div>
 
+<p>
+
+<div style="font-size:20px;">
 - 审美在线，偶尔画画
- 
-- 不想成为穿格子衫的程序员
-
-- 喜欢摄影
-
  </div>
+ 
+ <p>
+ 
+ <div style="font-size:20px;">
+- 不想成为穿格子衫的程序员
+</div>
+
+<p>
+
+<div style="font-size:20px;">
+- 喜欢摄影
+ </div>
+
+ 
 
 <hr>
 
