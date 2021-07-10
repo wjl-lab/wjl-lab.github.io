@@ -31,7 +31,7 @@
 <p>
 
 <div style="font-size:15px;">
-  <a href="https://github.com/wjl-lab">个人博客 &nbsp; https://blog.wangjialei.xyz</a> 
+  <a href="https://blog.wangjialei.xyz">个人博客 &nbsp; https://blog.wangjialei.xyz</a> 
 </div>
  
 <p>  
