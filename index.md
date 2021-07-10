@@ -3,10 +3,9 @@
 <hr>
 
 <div style="font-size:40px;">
-  个人博客 [https://blog.wangjialei.xyz](https://blog.wangjialei.xyz)
+  <a href="https://github.com/wjl-lab">个人博客 https://blog.wangjialei.xyz</a>
 </div>
   
-
 
 
 <table>
