@@ -8,35 +8,22 @@
  
 <p>
   
-<table style="font-size:25px; width:100%;" cellspacing="10">  
-  <tr>
-    <td style="padding:15px;">
-      <img src="./gtihub.ico" style="zoom:100%;"/>
-    </td>
-    <td style="padding:15px;">
-      <a href="https://github.com/wjl-lab">github</a>
-    </td>
-  </tr>
+<div style="font-size:25px;">  
+  <a href="https://github.com/wjl-lab"><img src="./gtihub.ico" style="zoom:100%;"/>github</a>
+</div>
+
+<p>
+
+<div style="font-size:25px;">
+  <a href="https://space.bilibili.com/433694656"><img src="./bilibili.ico" style="zoom:100%;"/>bilibilib</a> 
+</div>    
   
-  <tr>
-    <td style="padding:15px;">
-      <img src="./bilibili.ico" style="zoom:100%;"/>
-    </td>
-    <td style="padding:15px;">
-      <a href="https://space.bilibili.com/433694656">bilibilib</a> 
-    </td>
-  </tr>
+<p>  
   
-  <tr>
-    <td style="padding:15px;">
-      <img src="./zhihu.ico" style="zoom:100%;"/>
-    </td>
-    <td style="padding:15px;">
-      <a href="https://www.zhihu.com/people/zao-zao-zao-63-70">zhihu</a>   
-    </td>
-  </tr>
-  
-</table>
+<div style="font-size:25px;">
+  <a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu.ico" style="zoom:100%;"/>zhihu</a>   
+</div>   
+
 
 
 
