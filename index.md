@@ -1,10 +1,8 @@
 # 欢迎来到我的个人主页
 
+<hr>
 
-
-<h2>个人博客</h2>
-
-<a href="https://blog.wangjialei.xyz"><img src="./favicon.png" style="zoom:20%;"/></a>
+<h2>个人博客</h2>   <a href="https://blog.wangjialei.xyz"><img src="./favicon.png" style="zoom:20%;"/></a>
 
 
 
@@ -22,4 +20,21 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
