@@ -2,12 +2,10 @@
 
 <hr>
 
-<div style="font-size:100px;">
-  个人博客
+<div style="font-size:40px;">
+  个人博客 [https://blog.wangjialei.xyz](https://blog.wangjialei.xyz)
 </div>
-
-个人博客   https://blog.wangjialei.xyz
-
+  
 
 
 
