@@ -2,7 +2,11 @@
 
 <hr>
 
-<h2>个人博客</h2>   <a href="https://blog.wangjialei.xyz"><img src="./favicon.png" style="zoom:20%;"/></a>
+<div style="font-size:100px;">
+  个人博客
+</div>
+
+个人博客   https://blog.wangjialei.xyz
 
 
 
