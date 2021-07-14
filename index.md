@@ -31,23 +31,23 @@
 <p>
 
 <div style="font-size:15px;">
-  <a href="https://blog.wangjialei.xyz">个人博客 &nbsp; https://blog.wangjialei.xyz</a> 
+  <a href="https://blog.wangjialei.xyz">个人博客 &nbsp; 传送门</a> 
 </div>
  
 <p>  
   
 <div style="font-size:15px;">  
-  <a href="https://github.com/wjl-lab"><img src="./gtihub.ico" style="zoom:80%;"/> &nbsp; github</a>
+  <a href="https://github.com/wjl-lab"><img src="./gtihub.ico" style="zoom:80%;"/> &nbsp; 传送门</a>
 </div>
 
 <p>
 
 <div style="font-size:15px;">
-  <a href="https://space.bilibili.com/433694656"><img src="./bilibili.ico" style="zoom:80%;"/> &nbsp; bilibilib</a> 
+  <a href="https://space.bilibili.com/433694656"><img src="./bilibili.ico" style="zoom:80%;"/> &nbsp; 传送门</a> 
 </div>    
   
 <p>  
   
 <div style="font-size:15px;">
-  <a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu.ico" style="zoom:80%;"/> &nbsp; zhihu</a>   
+  <a href="https://www.zhihu.com/people/zao-zao-zao-63-70"><img src="./zhihu.ico" style="zoom:80%;"/> &nbsp; 传送门</a>   
 </div>   
